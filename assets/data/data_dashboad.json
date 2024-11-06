@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Pathology",
+        "icon": "lni lni-microscope",
+        "description": "ข้อมูลการจำแนกโรคทางพยาธิวิทยา",
+        "link": "https://lookerstudio.google.com/u/0/reporting/1b25213b-ff54-4f64-86b7-8abd9ca414f5/page/p_3vbkvfzemd?s=m4eXMlH33eI"
+    },
+    {
+        "title": "KPI Pathology",
+        "icon": "lni lni-ruler-alt",
+        "description": "ข้อมูลตัวชี้วัดฝ่ายพยาธิวิทยาคลินิก",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiNDIxOTZmMjktNjQ5MS00MDczLThjNzUtMTQ4NDNjMjFhZDcxIiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D"
+    },
+    {
+        "title": "Flatfoot",
+        "icon": "lni lni-bar-chart",
+        "description": "ข้อมูลการคัดกรองภาวะเท้าแบนในเด็ก",
+        "link": "https://lookerstudio.google.com/reporting/6128cbbd-0fd4-4d47-aafc-09f11506d0f5"
+    },
+    {
+        "title": "Pediatrics",
+        "icon": "lni lni-smile",
+        "description": "ข้อมูลผู้ป่วย OPD กุมารเวชกรรม",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiODk1MTEwNDctODcwZi00ZGU1LWEyNWEtZjY2MjUzNDNjYjc0IiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D"
+    },
+    {
+        "title": "Pharmacy",
+        "icon": "lni lni-capsule",
+        "description": "ข้อมูลการใช้ยาในผู้ป่วยใน แยกตามกลุ่มยา/สิทธิการรักษา",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiMzgwNTA3YzktMDViZS00ZjdhLTg1NDEtZjc3YzRhYmU0OTYxIiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D&pageName=27fce513606c969420d9"
+    },
+    {
+        "title": "Patient Statistics",
+        "icon": "lni lni-hospital",
+        "description": "ข้อมูลรายงานสถิติผู้ป่วยในของโรงพยาบาลมหาวิทยาลัยนเรศวร",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiZmU5YzMyOTEtMmFiOC00MWE3LWEwMGUtZDZjNTYxMjIwMzRjIiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D"
+    },
+    {
+        "title": "Egg Freezing",
+        "icon": "lni lni-baloon",
+        "description": "ข้อมูลการชำระเงินค่าฝากแช่แข็งไข่และตัวอ่อน",
+        "link": "https://lookerstudio.google.com/u/0/reporting/b3714fca-53e9-4385-b141-2f0d94a1f46d"
+    },
+    {
+        "title": "Nurse productivity",
+        "icon": "lni lni-ambulance",
+        "description": "ข้อมูล Productivity ฝ่ายการพยาบาล",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiOWVlMGUwNmUtYzAwMC00NmY0LWE5MTUtZjFmNzI3ZWFhODg3IiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D"
+    },
+    {
+        "title": "Occupational Therapy",
+        "icon": "lni lni-dumbbell",
+        "description": "ข้อมูลการเงินกองทุนฟื้นฟูกลุ่มงานกายภาพบำบัด กิจกรรมบำบัดและกายอุปกรณ์",
+        "link": "https://lookerstudio.google.com/reporting/7f39e342-3c87-48bc-b16e-8711c004e93d"
+    },
+    {
+        "title": "Medical Education",
+        "icon": "lni lni-graduation",
+        "description": "ข้อมูลการบริหารการจัดการเรียนการสอนรายวิชาชั้นปรีคลินิก",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiNjgxN2Q1OWEtYzgyNC00NjZlLWJlYWQtYzliZDIwNDg3MWZiIiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D"
+    },
+    {
+        "title": "Student Affair",
+        "icon": "lni lni-users",
+        "description": "ข้อมูลการจัดทำโครงการและการใช้งบประมาณของงานพัฒนานิสิตและงานกิจการนิสิตของคณะแพทยศาสตร์",
+        "link": "https://lookerstudio.google.com/u/0/reporting/4fe4548e-0b4a-4b98-bbc2-ccc4b0d1ce1e?s=juPYpCaSU0c"
+    },
+    {
+        "title": "Asset Management",
+        "icon": "lni lni-invest-monitor",
+        "description": "ข้อมูลรายการทรัพย์สินคณะแพทยศาสตร์",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiZmFiZTllZDgtZjNlNi00ZDdmLWE4NDgtYjRkYzk0MzVkNWE4IiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D"
+    },
+    {
+        "title": "Human Resource",
+        "icon": "lni lni-user",
+        "description": "ข้อมูลด้านอัตรากำลัง และระยะเวลาการต่อสัญญาจ้างบุคลากร",
+        "link": "https://lookerstudio.google.com/u/0/reporting/44bdfd39-1ea9-4bac-8afc-324928703c57/page/aWEIE?s=nlAbS6LXN5E"
+    },
+    {
+        "title": "Forensic Medicine",
+        "icon": "lni lni-search",
+        "description": "ข้อมูลการชันสูตรพลิกศพทางนิติเวช",
+        "link": "https://lookerstudio.google.com/u/0/reporting/74ddf82c-7d03-41c1-9248-32e6726e4ae9"
+    }
+]
