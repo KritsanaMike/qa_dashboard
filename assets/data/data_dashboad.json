@@ -1,5 +1,11 @@
 [
     {
+        "title": "Overall Dashboard",
+        "icon": "lni lni-bar-chart",
+        "description": "ข้อมูลจากฐานข้อมูลกลางโรงพยาบาลมหาวิทยาลัยนเรศวร <br> 1. Dashboard <br> 2.รายงานจำนวนผู้ป่วย Realtime <br> 3.รายงานจำนวนผู้ป่วยรอคอยตามแผนก Realtime <br> 4.รายงานจำนวนผู้ป่วยในและวันนอน Realtime <br> 5.รายงานค่าใช้จ่ายย้อนหลัง 7 วัน ตามกลุ่มค่ารักษา <br> 6.รายงานจำนวนผู้ป่วย Refer IN - Refer OUT <br> 7.รายงานรายได้พึงรับ OPD <br> 8.รายงานรายได้พึงรับ IPD <br> 9.รายงานจำนวนผู้ป่วย OPD IPD <br> 10.รายงาน DRG <br> 11.รายงานงบประมาณคณะแพทยศาสตร์ <br> 12.รายงานสินค้าคงคลังโรงพยาบาลมหาวิทยาลัยนเรศวร Realtime <br> 13.รายงาน TOP รายการยา 30 วัน",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiNzEzYWY0M2YtMGI0Ni00MzQ0LWE1ZDEtYmNkNGM3OGM1MDY5IiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D&pageName=ReportSectionf28ea9c70448be337811"
+    },
+    {
         "title": "Pathology",
         "icon": "lni lni-microscope",
         "description": "ข้อมูลการจำแนกโรคทางพยาธิวิทยา",

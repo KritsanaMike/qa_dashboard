@@ -2428,6 +2428,13 @@ ol {
   text-decoration: none;
 }
 
+.single-service p {
+  max-height: 4.5em; /* Approx. 3 lines based on line-height */
+  overflow-y: auto;
+  line-height: 2em; /* Adjust line height for 3 lines of text */
+  margin: 0;
+}
+
 /*======================================
     Intro Video CSS
 ========================================*/
