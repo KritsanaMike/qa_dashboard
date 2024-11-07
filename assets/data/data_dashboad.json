@@ -19,7 +19,7 @@
     },
     {
         "title": "Flatfoot",
-        "icon": "lni lni-bar-chart",
+        "icon": "lni lni-pencil-alt",
         "description": "ข้อมูลการคัดกรองภาวะเท้าแบนในเด็ก",
         "link": "https://lookerstudio.google.com/reporting/6128cbbd-0fd4-4d47-aafc-09f11506d0f5"
     },
@@ -55,7 +55,7 @@
     },
     {
         "title": "Occupational Therapy",
-        "icon": "lni lni-dumbbell",
+        "icon": "lni lni-leaf",
         "description": "ข้อมูลการเงินกองทุนฟื้นฟูกลุ่มงานกายภาพบำบัด กิจกรรมบำบัดและกายอุปกรณ์",
         "link": "https://lookerstudio.google.com/reporting/7f39e342-3c87-48bc-b16e-8711c004e93d"
     },
