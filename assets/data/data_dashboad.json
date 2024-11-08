@@ -12,12 +12,6 @@
         "link": "https://lookerstudio.google.com/u/0/reporting/1b25213b-ff54-4f64-86b7-8abd9ca414f5/page/p_3vbkvfzemd?s=m4eXMlH33eI"
     },
     {
-        "title": "KPI Pathology",
-        "icon": "lni lni-ruler-alt",
-        "description": "ข้อมูลตัวชี้วัดฝ่ายพยาธิวิทยาคลินิก",
-        "link": "https://app.powerbi.com/view?r=eyJrIjoiNDIxOTZmMjktNjQ5MS00MDczLThjNzUtMTQ4NDNjMjFhZDcxIiwidCI6ImJmMWViM2Y4LTE5ZDItNDA5ZC1iMGM1LTRlODBjOTQzZmQ1MiIsImMiOjEwfQ%3D%3D"
-    },
-    {
         "title": "Flatfoot",
         "icon": "lni lni-pencil-alt",
         "description": "ข้อมูลการคัดกรองภาวะเท้าแบนในเด็ก",
